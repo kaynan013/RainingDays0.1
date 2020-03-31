@@ -1,0 +1,21 @@
+Criador: Kaynan Vilela
+Software utilizado: Maya 2019
+Tipo de conteúdo: Asset 3D
+Nome do arquivo: ManequimDeExemplo
+Formato: .fbx
+Versão do Arquivo: 1.0
+Versão do Projeto: 0.1
+Versão da Engine: 4.24
+
+Descrição:
+Um modelo de exemplo que pode ser baixado e utilizado gratuitamente. Não pertence a um projeto ou mapa específico.
+
+Possui:
+	• Mesh 3D única;
+	• Rigging;
+	• Skinning;
+
+Não-possui:
+	• Animação;
+	• Material;
+	• Texturas: cor base, metálico, normal-map;
