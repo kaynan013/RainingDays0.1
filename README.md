@@ -28,9 +28,9 @@ Tudo será devidamente revisado.
 ------------------------------------------------
 
 Para acompanhar o andamento do projeto, assista às lives em twitch.tv/kaynao13
-Entre no nosso servidor do Discord para ter uma comunicação direta com a gente: discord.gg/XJtd5Rc
 
-Toda quinta, às 22h na Twitch pra acompanhar o andamento do projeto.
+Toda quinta, às 22h
+Entre no nosso servidor do Discord para ter uma comunicação direta com a gente: discord.gg/XJtd5Rc
 
 Enfim, se quer fazer parte desta loucura: seja bem-vindo.
 </font>
