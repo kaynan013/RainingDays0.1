@@ -1,0 +1,328 @@
+﻿#Version 3
+#Begin-Auto-Completion 
+AutoCompletion/Scene/Enabled:True
+AutoCompletion/Scene/Items:0
+AutoCompletion/Character/Enabled:True
+AutoCompletion/Character/Items:0
+AutoCompletion/Transition/Enabled:True
+AutoCompletion/Transition/Items:12
+AutoCompletion/Transition/Items/1:BACK TO:
+AutoCompletion/Transition/Items/2:CROSSFADE:
+AutoCompletion/Transition/Items/3:CUT TO:
+AutoCompletion/Transition/Items/4:DISSOLVE TO:
+AutoCompletion/Transition/Items/5:FADE IN:
+AutoCompletion/Transition/Items/6:FADE OUT
+AutoCompletion/Transition/Items/7:FADE TO BLACK
+AutoCompletion/Transition/Items/8:JUMP CUT TO:
+AutoCompletion/Transition/Items/9:MATCH CUT TO:
+AutoCompletion/Transition/Items/10:SLOW FADE TO BLACK
+AutoCompletion/Transition/Items/11:SMASH CUT TO:
+AutoCompletion/Transition/Items/12:TIME CUT:
+#End-Auto-Completion 
+#Begin-Config 
+FontSize:12
+Margin/Bottom:25.40
+Margin/Left:38.10
+Margin/Right:25.40
+Margin/Top:12.70
+Paper/Height:297.00
+Paper/Width:210.00
+PageBreakActionLines:2
+PageBreakDialogueLines:2
+SceneContinueds:False
+SceneContinuedIndent:45
+ShowSceneNumbers:False
+IncludeTOC:True
+ShowTOC:True
+OpenOnCurrentPage:True
+RemoveNotes:False
+OutlineNotes:True
+ShowMargins:False
+ShowLineNumbers:False
+Cursor/Line:151
+Cursor/Column:36
+String/MoreDialogue:(MORE)
+String/ContinuedPageEnd:(CONTINUED)
+String/ContinuedPageStart:CONTINUED:
+String/DialogueContinued: (cont'd)
+Element/Scene/BeforeSpacing:10
+Element/Scene/IntraSpacing:0
+Element/Scene/Indent:0
+Element/Scene/Width:60
+Element/Scene/Screen/AllCaps:True
+Element/Scene/Screen/Bold:True
+Element/Scene/Screen/Italic:False
+Element/Scene/Screen/Underlined:False
+Element/Scene/Export/AllCaps:True
+Element/Scene/Export/Bold:False
+Element/Scene/Export/Italic:False
+Element/Scene/Export/Underlined:False
+Element/Action/BeforeSpacing:10
+Element/Action/IntraSpacing:0
+Element/Action/Indent:0
+Element/Action/Width:60
+Element/Action/Screen/AllCaps:False
+Element/Action/Screen/Bold:False
+Element/Action/Screen/Italic:False
+Element/Action/Screen/Underlined:False
+Element/Action/Export/AllCaps:False
+Element/Action/Export/Bold:False
+Element/Action/Export/Italic:False
+Element/Action/Export/Underlined:False
+Element/Character/BeforeSpacing:10
+Element/Character/IntraSpacing:0
+Element/Character/Indent:22
+Element/Character/Width:38
+Element/Character/Screen/AllCaps:True
+Element/Character/Screen/Bold:False
+Element/Character/Screen/Italic:False
+Element/Character/Screen/Underlined:False
+Element/Character/Export/AllCaps:True
+Element/Character/Export/Bold:False
+Element/Character/Export/Italic:False
+Element/Character/Export/Underlined:False
+Element/Dialogue/BeforeSpacing:0
+Element/Dialogue/IntraSpacing:0
+Element/Dialogue/Indent:10
+Element/Dialogue/Width:35
+Element/Dialogue/Screen/AllCaps:False
+Element/Dialogue/Screen/Bold:False
+Element/Dialogue/Screen/Italic:False
+Element/Dialogue/Screen/Underlined:False
+Element/Dialogue/Export/AllCaps:False
+Element/Dialogue/Export/Bold:False
+Element/Dialogue/Export/Italic:False
+Element/Dialogue/Export/Underlined:False
+Element/Parenthetical/BeforeSpacing:0
+Element/Parenthetical/IntraSpacing:0
+Element/Parenthetical/Indent:16
+Element/Parenthetical/Width:25
+Element/Parenthetical/Screen/AllCaps:False
+Element/Parenthetical/Screen/Bold:False
+Element/Parenthetical/Screen/Italic:False
+Element/Parenthetical/Screen/Underlined:False
+Element/Parenthetical/Export/AllCaps:False
+Element/Parenthetical/Export/Bold:False
+Element/Parenthetical/Export/Italic:False
+Element/Parenthetical/Export/Underlined:False
+Element/Transition/BeforeSpacing:10
+Element/Transition/IntraSpacing:0
+Element/Transition/Indent:45
+Element/Transition/Width:20
+Element/Transition/Screen/AllCaps:True
+Element/Transition/Screen/Bold:False
+Element/Transition/Screen/Italic:False
+Element/Transition/Screen/Underlined:False
+Element/Transition/Export/AllCaps:True
+Element/Transition/Export/Bold:False
+Element/Transition/Export/Italic:False
+Element/Transition/Export/Underlined:False
+Element/Shot/BeforeSpacing:10
+Element/Shot/IntraSpacing:0
+Element/Shot/Indent:0
+Element/Shot/Width:60
+Element/Shot/Screen/AllCaps:True
+Element/Shot/Screen/Bold:False
+Element/Shot/Screen/Italic:False
+Element/Shot/Screen/Underlined:False
+Element/Shot/Export/AllCaps:True
+Element/Shot/Export/Bold:False
+Element/Shot/Export/Italic:False
+Element/Shot/Export/Underlined:False
+Element/Note/BeforeSpacing:10
+Element/Note/IntraSpacing:0
+Element/Note/Indent:5
+Element/Note/Width:55
+Element/Note/Screen/AllCaps:False
+Element/Note/Screen/Bold:False
+Element/Note/Screen/Italic:True
+Element/Note/Screen/Underlined:False
+Element/Note/Export/AllCaps:False
+Element/Note/Export/Bold:False
+Element/Note/Export/Italic:True
+Element/Note/Export/Underlined:False
+Element/Act break/BeforeSpacing:10
+Element/Act break/IntraSpacing:0
+Element/Act break/Indent:25
+Element/Act break/Width:10
+Element/Act break/Screen/AllCaps:True
+Element/Act break/Screen/Bold:True
+Element/Act break/Screen/Italic:False
+Element/Act break/Screen/Underlined:True
+Element/Act break/Export/AllCaps:True
+Element/Act break/Export/Bold:False
+Element/Act break/Export/Italic:False
+Element/Act break/Export/Underlined:True
+Font/Bold-Italic/Name:
+Font/Bold-Italic/Filename:
+Font/Bold/Name:
+Font/Bold/Filename:
+Font/Italic/Name:
+Font/Italic/Filename:
+Font/Normal/Name:
+Font/Normal/Filename:
+#End-Config 
+#Begin-Locations 
+Locations:0
+#End-Locations 
+#Begin-Spell-Checker-Dict 
+Words:0
+#End-Spell-Checker-Dict 
+#Title-String 0.000000,105.000000,24,cb,Helvetica,,UNTITLED SCREENPLAY
+#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nMy Name Here
+#Title-String 15.000000,248.460000,12,,Courier,,123/456-7890\nno.such@thing.com
+#Header-String 1,0,r,,${PAGE}.
+#Header-Empty-Lines 1
+#Start-Script 
+.\(CUTSCENE.01-NON-PLAY) Ext. Campos de kormaga -  noite
+..WIDE-PAN. CÉU -> CASTELO:
+>.É uma noite chuvosa, a única coisa que se pode ver são as
+>.negras nuvens de chuva e o jogador se encontra desnorteado,
+>.a vista não quer dizer muita coisa. Uma música melancólica e
+..lenta se inicia.
+>.[LETTERING] Com a contribuição de vários artistas ao redor
+..do mundo. (lettering se dissolve)
+>.[LETTERING] A Playware Team apresenta (lettering se
+..dissolve).
+>.Uma trilha é criada por entre as árvores à  distância pelos
+>.passos pesados de algo que corre. Dois relâmpagos cortam a
+..cena.
+.\
+..DOLLY. GRADES DAS CRIATURAS:
+>.O castelo de Kormaga guarda criaturas voadoras em poleiros
+>.escondidos dentro das torres. Terríveis criaturas que,
+>.enfeitiçadas, procuram um alvo com seus olhos
+>.brilhante-amarelos, enquanto penas ou peles não podem ser
+>.muito bem identificadas se não fosse a luz branda que entra
+>.pelas frestas das grades. As grades sobem. Permitem a saída
+>.de algumas delas. Outras se debatem umas contras as outras
+..para sair.
+.\
+.=DOLLY. GRADES DAS CRIATURAS -> HORIZONTE
+>.As criaturas voam e a câmera gira, evidenciando ao fundo uma
+>.montaria fugindo com um homem à sela. Sabe-se que é uma
+>.montaria porque pequenas partículas de barro saltam de suas
+>.patas após cada pisada no chão, um brilho azul à distancia
+..ofusca.
+..
+..PAN-VERTICAL. ÁTRIO EXTERNO DO CASTELO
+>.Uma gritaria e sinos podem ser ouvidos ao longe e vários
+>.soldados correm para alcançar suas montarias no átrio do
+>.castelo, enquanto um portão de ferro se abre, permitindo a
+>.passagem de outros soldados já montados. A câmera, já mais
+>.objetiva, apresenta as várias criaturas e soldados que saem
+>.desesperados à caça daquela sugesta montaria já um pouco
+..distante.
+..
+..TRAVELLING(TRÁS). TRILHA DOS CAMPOS DE KORMAGA:
+>.Sem cortes, a câmera busca, ao longe um elemento e encontra
+>.as patas da montaria que fugia. Seu galope é forte e se pode
+>.ouvir mesmo já não tão próximo ao jogador. Montado nela
+>.vê-se um homem encapuzado que carrega uma bolsa e, na bolsa,
+>.um objeto misterioso que brilha azul. Após uma distância
+..considerável já é possível ouvir quem o perseguia.
+..
+.=PAN. PATAS DA MONTARIA -> HOMEM:
+>.O homem faz um leve movimento com a cabeça, percebendo que é
+..perseguido. Então dá instruções à montaria que o responde.
+..
+.=CLOSE-UP. HOMEM e Montaria
+._Homem
+>:Continue e tente despistar, eu vou
+.:eliminá-los.
+._Montaria
+.:Sim, senhor.
+>.O homem se vira para os perseguidores fazendo uma manobra
+>.com as pernas, enquanto a câmera se posiciona no FORMATO 1.
+..A música se intensifica.
+./--->GAMEPLAY
+./GAMEPLAY--->
+.\(CUTSCENE.02-NON-PLAY) EXT. Vilarejo astrid - dia
+./[fade]
+.=wide. Vilarejo
+>.Não há muita movimentação no vilarejo, talvez algumas
+>.crianças brincando e algumas mães preocupadas com elas. Uma
+>.das crianças para e procura algo no horizonte. No horizonte
+>.pode ser ver uma montaria com um homem à sela. É Newell que
+>.chega, cansado de ter passado a noite na floresta. Mas desce
+>.de sua montaria tranquilamente para receber o filho, que
+..começa a correr em sua direção.
+.=TRAVELLING. GAROTO
+>.O garoto corre insesantemente por entre as casas do vilarejo
+..para receber o pai com um abraço.
+.=Medium. Newell e Nollan
+>.Algumas pessoas se aproximam para encontrar o homem que
+>.chegara de sua jornada. Os mais curiosos perguntam porque
+>.foi embora. Newell, sem jeito, retira o artefato azul de sua
+..bolsa e mostra aos aldeões.
+._Aldeão 1
+>:Newell, meu homem, porque partiu?
+.:Para onde foi?
+._Newell
+.:Fui tomar de volta o que é nosso.
+>.Orgulhoso de sua jornada, apresenta com gosto aos aldeões
+>.enquanto o artefato brilha em azul, evidenciando as nuvens
+..que brincam dentro do vidro.
+._Nollan
+.:Pai, o que é isto?
+._NEWELL
+.:Algo muito importante, meu filho.
+>.Se afastando de toda a roda de pessoas que se formara,
+>.Newell caminha em direção ao Templo para devolver o
+..artefato, a câmera acompanha.
+./[FADE]
+.\
+.\INT. TEMPLO DA ÁGUA
+..WIDE.
+>.Não há muito a se ver dentro do templo, a não ser uma luz
+>.gentil que entra pelas frestas do todo há muito destruído e
+>.o brilho do artefato que se intensifica ao passo que Newell
+>.avança templo adentro. Newell toma o artefato nas mãos, o
+>.brilho intenso não o cega, já está acostumado com luzes
+..intensas.
+.=MEDIUM. Newell
+>.Newell, segurando o artefato nas mãos para um tempo e
+..analisa a situação. Fixa os olhos no artefato.
+.=Close-up. Artefato
+..O artefato brilha intensamente.
+.=Close-up. Newell
+>.Newell estreita os olhos e observa fixamente o artefato,
+>.pensativo, suas feições podem dizer muita coisa, mas fato é
+..que está temeroso do que está prestes a fazer.
+./--->Gameplay
+./GAMEPLAY--->
+.\INT. TEMPLO DA ÁGUA
+.=Detail. - artefato
+>.O artefato vibra, como se algo estivesse para acontecer.
+>.Algumas ondas relevam do que se trata, O Espírito da Água se
+>.releva para Newell, majestosamente saindo de dentro do
+..artefato.
+._Espírito da água
+.:Que bom revê-lo, Newell.
+._NEWELL
+>:Perdoe Ramagok, sua ambição não o
+.:permite pensar racionalmente.
+._ESPÍRITO DA ÁGUA
+>:Sei de sua tormenta, Newell, mas
+>:ações são ações, eu sou o mais
+>:brando dos deuses, os outros podem
+.:decidir não poupá-lo.
+._NEWELL
+>:Peça para que seja assim, em nome
+.:de nossa última jornada.
+._ESPÍRITO DA ÁGUA
+.:Posso pedir... Seu filho, está bem?
+._NEWELL
+>:Queria saber como criar um filho.
+>:Depois de minha esposa, não sei
+>:muito o que fazer e quando. Às
+>:vezes, peço orientação das mulheres
+>:da vila, mas todas ainda têm seus
+.:maridos.
+._ESPÍRITO DA ÁGUA
+>:Saberá o que fazer quando for a
+>:hora. Obrigado por recuperar o
+.:quartzo.
+._NEWELL
+.:À disposição.
+..Newell se afasta do totem enquanto o
