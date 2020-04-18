@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:151
-Cursor/Column:36
+Cursor/Line:309
+Cursor/Column:6
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -291,7 +291,7 @@ Words:0
 ..que está temeroso do que está prestes a fazer.
 ./--->Gameplay
 ./GAMEPLAY--->
-.\INT. TEMPLO DA ÁGUA
+.\(cutscene.03-non-play) INT. TEMPLO DA ÁGUA
 .=Detail. - artefato
 >.O artefato vibra, como se algo estivesse para acontecer.
 >.Algumas ondas relevam do que se trata, O Espírito da Água se
@@ -325,4 +325,189 @@ Words:0
 .:quartzo.
 ._NEWELL
 .:À disposição.
-..Newell se afasta do totem enquanto o
+>.Newell se afasta do totem enquanto o Espírito some em ondas
+..para dentro do quartzo.
+./[FADE]
+.\Ext. Vilarejo astrid - dia
+.=WIDE
+>.Um novo dia nasce e as pessoas não estão muito preocupadas
+>.com o que acontece, além do fato que alguns estandartes
+>.podem ser vistos no horizonte à medida que aproximam-se do
+..vilarejo.
+..MEDIUM
+>.Os estandartes à distância indicam a chegada de um comboio
+>.real vindo de Astrid. Alguns soldados pesadamente fardados
+>.chegam em suas montarias com um palimpsesto em mãos. Aldeões
+..se aproximam para ver o que acontece. Um soldado pronuncia.
+._Soldado 1
+>:Meus súditos. Nesta madrugada um de
+>:vós partiu para o reino vizinho e
+>:tomou à força um importante
+>:artefato do castelo. Considerado
+>:ladrão e culpado por Vossa
+>:Majestade, [o rei], em nome do
+>:reino e de tudo que é bom decreta
+>:reivindica  o quartzo e a arma
+>:utilizada. O ladrão será levado ao
+.:rei imediatamente.
+.=CLOSE-UP
+>.Newell, que sentado em uma tora descacando madeira, olha
+>.para a roda de pessoas e ouve atentamente o que o soldado
+>.anuncia. Ajeita-se na tora, joga o pedaço de madeira como se
+..estivesse se desfazendo de sua tarefa e se levanta.
+.=Medium
+..Newell se aproxima da roda e anuncia para os soldados.
+._NEWELL
+>:Poupe os aldeões, cães. Fui eu o
+>:autor do dito crime. O que
+>:preferem? Que eu vá amarrado ou
+.:caminhando com a corda no pescoço?
+.=contra-Plongée
+._SOLDADO 1
+>:É corajoso de nos chamar de cães,
+>:Newell. Acho que prefiro que vá
+.:amarrado.
+.=medium. Action
+>.Os soldados descem de suas montarias com cordas na mão e,
+>.com força amarram as mãos de Newell, derrubam-no e amarram
+..seus pés.
+.=Pan. - Aldeões
+>.Os aldeões, assustados com a situação, conversam entre si e,
+>.por entre alguns deles, Nollan se aproxima e vê seu pai,
+..jogado ao chão, ser amarrado.
+.=Long
+>.Nollan grita contra os soldados, para que soltem seu pai,
+>.enquanto os outros que haviam entrado vilarejo trazem algo
+..largo, que parece ser a arma de Newell.
+.=Close-up. Nollan
+._NOLLAN
+>:Larguem meu pai, seus cães! O que
+.:estão fazendo?
+._NEWELL
+.((tranquilo)
+.:NOLLAN! SE AFASTE! NÃO FAÇA NADA!
+.=Medium
+._SOLDADO 2
+>:É você então o filho desse porco?!
+.:Hahahaha!
+>.Nollan, vê seu pai ser colocado nas costas de uma das
+>.montarias e se desespera. Avança nos soldados, querendo
+>.forçar as amarras do pai, para soltá-lo. Os soldados riem e
+..um deles o empurra. 
+.=MEDIUM
+>.Nollan, caído no chão, olha para os soldados de soslaio,
+..enquanto se distanciam em suas montarias.
+.=Medium. Plongée
+>.Nollan soca o chão e se levanta rapidamente. Sai correndo
+>.para o mesmo rumo dos soldados. Uma das mulheres que estavam
+>.na roda de pessoas, estende a mão para alcançá-lo. Nollan é
+>.mais rápido, se desvincilha e corre para Astrid, onde seu
+..pai seria executado.
+./[FADE]
+.\EXT. ASTRID PRAÇA - noite
+.=MEDIUM
+>.Os soldados, trazendo Newell amarrado nas costas de uma
+>.montaria, tiram-no e posicionam-o frente à uma estaca de
+>.madeira presa ao chão, enquanto uma multidão se aproxima e
+..se amultuam numa roda. Amarram suas mãos ao poste.
+.=Wide
+>.Ao passo que a multidão se aglomera, alguns burburinhos
+>.correm, especulando que o homem ali a ser executado teria
+>.cometido crimes contra as famílias do burgo. Não muito
+>.distante da multidão, uma figura corre para dentro da roda
+..de pessoas.
+.=Travelling
+>.Nollan se esgueira no meio das pessoas, parece procurar
+>.chegar ao centro da roda. É difícil, afinal ele é muito
+..pequeno para enfrentar uma multidão.
+.=Medium
+>.Chegando ao centro da roda, Nollan se depara com a cena que
+..marcaria a sua vida dali em diante.
+.=Long dolly
+>.Os soldados, em volta da multidão, controlando-a impedem a
+>.passagem de qualquer pessoa. Nollan brada para que os
+>.soldados soltem o seu pai, mas não consegue nada mais do que
+>.gritar enquanto seu corpo é empurrado de volta para a roda
+..de pessoas.
+.=Close-up. Newell
+>.Newell percebe que seu filho se encontra na multidão e
+..observa-o, como se fosse a última vez que o veria.
+.=Close-up. Nollan
+>.Nollan percebe a relutância nos olhos do pai, e grita ainda
+..mais alto.
+._NOLLAN
+>:PAI! NÃO FAÇAM ISSO COM ELE! PAI! O
+.:QUE ESTÁ ACONTECENDO?! SOLTEM ELE!
+.%Silêncio
+.=WIDE
+>.O rei de Kormaga se aproxima ao mastro onde Newell fora
+>.colocado, com a escopeta em mãos. Caminha em volta do poste,
+>.diz algo inaudível, Newell responde mas  não se pode ouvir
+>.uma única palavra, estão tão distantes e Nollan tão
+>.desesperado que não consegue se concentrar em ouvir, a não
+>.ser sua própria voz. As bocas do rei e Newell se mexem, mas
+..são palavras indistintas.
+.=Medium
+>.Romagok, com a escopeta em mãos, se vira para a multidão e
+>.anuncia algo. Silêncio. Volta para Newell, mira a grande
+>.arma na direção da cabeça de Newell, mais algumas palavras
+>.indistintas do rei e BAM! Dispara. O som da arma é alto o
+>.suficiente para assustar a todos que, atormentados, se
+..voltam para a situação e lá estava o corpo de Newell.
+.=Close-up. Newell
+..A cabeça desfigurada. Ensanguentado.
+.=Close-up. Nollan
+>.Um silêncio indescritível se apodera de Nollan. Após o
+>.estrondo, todos ficam curiosos para saber o que acabara de
+>.acontecer, Nollan olha para a cena, sem saber muito o que
+>.pensar ou o que fazer, se desvincilha do soldado que o
+>.segurava e sobe rapidamente os dois únicos degraus da
+..plataforma da praça.
+.=wide
+>.Sem saber muito como reagir, caminha relutantemente para
+>.perto do poste, sua cabeça confusa, sua voz já com nós na
+>.garganta. Romagok, já satisfeito com a situação, estende a
+..arma de Newell e a entrega ao rei de Astrid.
+._NOLLAN
+>:Pai? O que aconteceu? O que fizeram
+.:com você?
+._Romagok
+>:Han... O filho agora? Tirem-no
+.:daqui.
+.=Medium
+>.O corpo de Newell está imóvel, sua cabeça desfigurada,
+>.metade foi arrancada com o tiro, seu cérebro se pendura para
+>.fora do crânio, o sangue já é suficiente para encher uma
+>.poça aos pés do corpo e Nollan ainda assim se aproxima para
+>.tentar entender a cena. O nó na garganta aperta, já não é
+>.mais possível reconhecer o rosto do pai, Nollan sequer sabe
+>.como abraçar aquele corpo. Alguns guardas se aproximam do
+..garoto para removê-lo da cena.
+._NOLLAN
+>:Pai?! Pai! Venha, vamos pra casa...
+.:Não brinca comigo...
+.=Close-up. Nollan
+>.Nollan derrama algumas lágrimas, mas insiste na ideia de que
+>.seu pai ainda vai se levantar. Se ajoelha perante o pai,
+..para observar com mais detalhes. É puxado pelos guardas.
+.=Long
+>.Nollan se debate contra os guardas, mas seu corpo mais
+>.frágil não permite que se movimente ou tenha força para se
+>.desvincilhar. Mas está mais inconformado com a morte do pai
+>.do que bravo com os guardas. Sua feição de tristeza é muito
+>.visível. Se desata a chorar quando os guardas o tomam pelos
+..braços.
+._NOLLAN
+.((chorando)
+>:Me soltem! O que fizeram com o meu
+>:pai?! Pai! Vamos embora! Seu verme!
+.:Devolve isso pro meu pai!
+.=Close-up. Nollan
+>.Nollan é atirado ao chão como lixo para de volta na roda de
+>.pessoas. Atirado no chão, chora intensamente, grita de
+>.tristeza. Se apoia em seus braços e olha intensamente para o
+..horizonte, em prantos.
+./[FADE]
+>.A câmera se dissolve para mostrar Nollan, agora quatorze
+..anos mais velho.
+..[LETTERING] Raining Days
