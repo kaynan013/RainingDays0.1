@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:309
-Cursor/Column:6
+Cursor/Line:405
+Cursor/Column:32
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -275,13 +275,13 @@ Words:0
 .\INT. TEMPLO DA ÁGUA
 ..WIDE.
 >.Não há muito a se ver dentro do templo, a não ser uma luz
->.gentil que entra pelas frestas do todo há muito destruído e
+>.gentil que entra pelas frestas do teto há muito destruído e
 >.o brilho do artefato que se intensifica ao passo que Newell
 >.avança templo adentro. Newell toma o artefato nas mãos, o
 >.brilho intenso não o cega, já está acostumado com luzes
 ..intensas.
 .=MEDIUM. Newell
->.Newell, segurando o artefato nas mãos para um tempo e
+>.Newell, segurando o artefato nas mãos, pára um tempo e
 ..analisa a situação. Fixa os olhos no artefato.
 .=Close-up. Artefato
 ..O artefato brilha intensamente.
@@ -503,11 +503,82 @@ Words:0
 >:pai?! Pai! Vamos embora! Seu verme!
 .:Devolve isso pro meu pai!
 .=Close-up. Nollan
->.Nollan é atirado ao chão como lixo para de volta na roda de
->.pessoas. Atirado no chão, chora intensamente, grita de
+>.Nollan é atirado ao chão como lixo, para, se volta na roda
+>.de pessoas. Atirado no chão, chora intensamente, grita de
 >.tristeza. Se apoia em seus braços e olha intensamente para o
 ..horizonte, em prantos.
 ./[FADE]
 >.A câmera se dissolve para mostrar Nollan, agora quatorze
 ..anos mais velho.
 ..[LETTERING] Raining Days
+./gameplay--->
+.\(cutscene.04-non-play) int. Cabana da mulher
+.=PLANO AMERICANO.-Nollan
+>.Nollan entra pela porta da cabana da mulher, se esquivando
+>.do teto do batente, olhando temerosamente cabana adentro e
+>.já se abrigando da chuva. A mulher tem seus dois filhos
+>.doentes, ambos deitados numa cama, se agonizando. Sentada
+>.numa das camadas a mulher vê Nollan entrar pela porta e
+>.prontamente o acolhe, se levantando e fechando a porta atrás
+..de si.
+.=Medium
+>.Nollan e a mulher se entreolham e a mulher, temerosa,
+..pergunta a Nollan o que pode acontecer dali em diante.
+._NOLLAN
+.:Nenhum sinal de melhora?
+>.Olhando e apontando com a cabeça para os garotos deitados. A
+..mulher reluta em responder.
+._Mulher
+.((relutante)
+>:Nollan, nossa, o que eu ou fazer
+>:com essa situação? Quer dizer, a
+>:chuva até que dá para suportar, mas
+>:os meus filhos doentes é demais pra
+>:mim. Eu sou a mais velha, eles que
+.:deveriam cuidar de mim.
+._NOLLAN
+.((amargurado)
+>:Não se preocupe mais, eu vou
+.:resolver isso.
+._MULHER
+.:O que quer dizer?
+._NOLLAN
+.:Vou para o reino...
+.=PP.-Nollan
+._MULHER
+.((em alerta)
+>:Nollan, o que quer dizer com isso?
+.:Não faça uma besteira.
+._NOLLAN
+.:Não temos escolha, temos?
+._MULHER
+.:Mas você sabe o que fazer?
+._NOLLAN
+.:Já sei, tenho tudo planejado.
+._MULHER
+.:Sabe onde está o Quartzo?
+._NOLLAN
+.:Qual a relevância daquilo?
+._MULHER
+.((ainda relutante)
+>:Bom, a chuva é um sinal de que algo
+>:não deveria ter acontecido. O
+>:Quartzo é um presente do próprio
+>:Espírito da Água. Precisa estar no
+.:lugar correto.
+._NOLLAN
+>:Não me importo com o Quartzo,
+.:somente quero a cabeça do rei.
+._MULHER
+>:Ahh, então é isso que está
+.:planejando...
+._NOLLAN
+>:Uma cabeça por uma cabeça... Essa
+.:foi a lei até hoje, não?
+.=Pp.-mulher
+>.A mulher, sem saber o que dizer, somente se vira com uma
+..feição relutante e se senta novamente na cama.
+._MULHER
+>:As capa e besta de seu pai podem
+.:ajudar...
+./--->gameplay
