@@ -1,0 +1,11 @@
+Nenhum dos modelos tem UVs, precisa fazer (se quiser mudar o formato pela escultura, pode mudar):
+ruins01 - sem mapeamento
+ruins02 - sem mapeamento
+ruins03 - sem mapeamento
+ruins04 - sem mapeamento
+ruins05 - sem mapeamento
+ruins06 - sem mapeamento
+ruins07 - sem mapeamento
+ruins08 - sem mapeamento
+pipe01 - sem mapeamento
+pipe02 - sem mapeamento
