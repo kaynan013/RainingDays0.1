@@ -1,2 +1,70 @@
-*.log
-Saved/*
+#https://github.com/MOZGIII/ue4-gitignore
+
+
+# Ignore all files by default, but scan all directories.
+*
+!*/
+
+# Do not ignore git files in the root of the repo.
+!/.git*
+
+# Do not ignore current project's `.uproject`.
+!RainingDays/*.uproject
+
+#One time upload of auxiliary files
+!Créditos.pdf
+!README.md
+!/Guidelines/**
+
+# Do not ignore source, config and plugins dirs.
+!RainingDays/Source/**
+!RainingDays/Config/**
+!RainingDays/Plugins/**
+
+# Only allow .uasset and .umap files from /Content dir.
+# They're tracked by git-lfs, don't forget to track other
+# files if adding them here.
+# It is necessary to add each dir inside /Content except for /Megascans
+!RainingDays/Content/Character/*.uasset
+!RainingDays/Content/Character/*.umap
+!RainingDays/Content/Cinematics/*.uasset
+!RainingDays/Content/Cinematics/*.umap
+!RainingDays/Content/Collections/*.uasset
+!RainingDays/Content/Collections/*.umap
+!RainingDays/Content/Config/*.uasset
+!RainingDays/Content/Config/*.umap
+!RainingDays/Content/Developers/*.uasset
+!RainingDays/Content/Developers/*.umap
+!RainingDays/Content/Gameplay/*.uasset
+!RainingDays/Content/Gameplay/*.umap
+!RainingDays/Content/Geometry/*.uasset
+!RainingDays/Content/Geometry/*.umap
+!RainingDays/Content/Mannequin/*.usset
+!RainingDays/Content/Mannequin/*.umap
+!RainingDays/Content/Maps/*.uasset
+!RainingDays/Content/Maps/*.umap
+!RainingDays/Content/Misc/*.uasset
+!RainingDays/Content/Misc/*.umap
+!RainingDays/Content/MSPresets/*.uasset
+!RainingDays/Content/MSPresets/*.umap
+!RainingDays/Content/Playware/*.uasset
+!RainingDays/Content/Playware/*.umap
+!RainingDays/Content/StarterContent/*.uasset
+!RainingDays/Content/StarterContent/*.umap
+!RainingDays/Content/Storm_Kit/*.uasset
+!RainingDays/Content/StormPack/*.umap
+!RainingDays/Content/Textures/*.uasset
+!RainingDays/Content/Textures/*.umap
+!RainingDays/Content/ThridPerson/*.uasset
+!RainingDays/Content/ThridPerson/*.umap
+!RainingDays/Content/ThridPersonBP/*.uasset
+!RainingDays/Content/ThridPersonBP/*.umap
+!RainingDays/Content/Weapons/*.uasset
+!RainingDays/Content/Weapons/*.umap
+
+# Allow any files from /RawContent dir.
+# Any file in /RawContent dir will be managed by git lfs.
+!RainingDays/RawContent/**/*
+
+#RainingDays repo specific directories
+# !/Dev/**
